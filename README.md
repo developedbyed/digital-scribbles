@@ -16,5 +16,6 @@
 
 ## Steps
 
-1. Set up API following docs on GraphCMS, i dependancies, import on home page
+1. Set up API following docs on GraphCMS, i dependencies, import on home page
 2.
+
